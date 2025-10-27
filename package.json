@@ -1,0 +1,29 @@
+{
+  "name": "servidor-http-post-",
+  "version": "1.0.0",
+  "description": "Implementando o tratamento do método HTTP POST",
+  "keywords": [
+    "node.js",
+    "express",
+    "http"
+  ],
+  "homepage": "https://github.com/matheus572/servidor-HTTP-POST-#readme",
+  "bugs": {
+    "url": "https://github.com/matheus572/servidor-HTTP-POST-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheus572/servidor-HTTP-POST-.git"
+  },
+  "license": "ISC",
+  "author": "matheus vital",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
